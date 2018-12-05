@@ -8,7 +8,7 @@ MSBD 5001 Fall Kaggle Contest
 ### beofore running
 ensure python lib: **numpy, pandas, sklearn, keras, xgboost, lgbm, tensorflow, matplotlib** are already installed.
 
-if not, please install these packagfe by code:
+if not, please install these package by command lines:
 ```
 pip install (package-name)
 ```
